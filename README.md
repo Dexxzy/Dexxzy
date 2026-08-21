@@ -4,7 +4,7 @@
 Engineering solutions at the intersection of science and code. 
 
 **Affiliation**
-Researcher, Westside Independent Study Research & Development (WISRD)
+Researcher, Wildwood Institute for STEM Research & Development (WISRD)
 
 **Core Focus**
 - Neuroscience
